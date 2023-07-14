@@ -2,7 +2,7 @@
  * @name Oshi no Ko
  * @author NikSne
  * @description Oshi no Ko Discord theme
- * @version 1.0.0
+ * @version 1.0.1
  * @invite bT9r2ByxDV
  * @authorId 760511113795207168
  */
@@ -531,7 +531,7 @@ textarea,
     text-shadow: 0 0 3px #000;
 }
 .typeWindows-2-g3UY > .wordmark-2u86JB:after {
-    content: "v0.0.1";
+    content: "v1.0.1";
     color: rgba(255, 255, 255, 0.3);
     font-family: var(--code-font);
     font-size: 10px;
@@ -590,7 +590,7 @@ textarea,
     text-shadow: 0 0 3px;
 }
 .typeMacOS-3V4xXE:after {
-    content: "0.0.1";
+    content: "1.0.1";
     color: rgba(255, 255, 255, 0.3);
 }
 .tabBar-1_P75h {
@@ -2481,7 +2481,7 @@ textarea::-webkit-scrollbar {
 }
 .subscribeTooltipWrapper-3ipXtC:after {
     border-bottom-color: var(--main-color);
-}
+}childWrapper-1j_1ub
 .upsellTooltipWrapper-1wqikQ {
     background-color: rgba(0, 0, 0, 0.8);
 }
@@ -2544,7 +2544,7 @@ textarea::-webkit-scrollbar {
 }
 .wrapper-3kah-n:hover .childWrapper-1j_1ub,
 .wrapper-3kah-n.selected-1Drb7Z .childWrapper-1j_1ub {
-    background-color: var(--main-color);
+    background-color: var(--hover-color);
     color: #fff;
 }
 .dragInner-1CUBf_ {
