@@ -532,7 +532,7 @@ textarea,
     text-shadow: 0 0 3px #000;
 }
 .typeWindows-2-g3UY > .wordmark-2u86JB:after {
-    content: "v1.0.1";
+    content: "v1.0.3";
     color: rgba(255, 255, 255, 0.3);
     font-family: var(--code-font);
     font-size: 10px;
@@ -591,7 +591,7 @@ textarea,
     text-shadow: 0 0 3px;
 }
 .typeMacOS-3V4xXE:after {
-    content: "1.0.1";
+    content: "1.0.3";
     color: rgba(255, 255, 255, 0.3);
 }
 .tabBar-1_P75h {
